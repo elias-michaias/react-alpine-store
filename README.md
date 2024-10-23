@@ -3,6 +3,7 @@
 Allows for syncing between reactive state across React and Alpine's `$store`.
 See more information about Alpine's `$store` [here](https://alpinejs.dev/magics/store).
 
+
 Useful for projects that require both frameworks, such as an Alpine application within Astro that needs to drop in some React components.
 
 ## Usage
