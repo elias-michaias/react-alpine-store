@@ -1,11 +1,13 @@
 {
   "name": "react-alpine-store",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Use Alpine's `$store` for React state",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elias-michaias/react-alpine-store.git"
   },
   "author": "elias-michaias",
   "license": "ISC"
 }
+
