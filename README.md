@@ -1,4 +1,4 @@
-# react-alpine-store
+# [react-alpine-store](https://www.npmjs.com/package/react-alpine-store)
 
 Allows for syncing between reactive state across React and Alpine's `$store`.
 See more information about Alpine's `$store` [here](https://alpinejs.dev/magics/store).
