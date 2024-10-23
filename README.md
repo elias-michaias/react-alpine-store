@@ -18,7 +18,7 @@ document.addEventListener("alpine:init", () => {
 
 ```js
 // Counter.jsx
-import useAlpineStore from @react-alpine-store
+import { useAlpineStore } from "react-alpine-store"
 
 export default function Counter() {
   const [ count, setCount ] = useAlpineStore("customThing.count");
