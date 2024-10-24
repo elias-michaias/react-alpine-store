@@ -1,6 +1,6 @@
 {
   "name": "react-alpine-store",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Use Alpine's `$store` for React state",
   "main": "main.js",
   "repository": {
