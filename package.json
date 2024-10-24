@@ -7,6 +7,13 @@
     "type": "git",
     "url": "https://github.com/elias-michaias/react-alpine-store.git"
   },
+  "keywords": [
+    "react",
+    "alpine",
+    "store",
+    "state",
+    "management"
+  ],
   "author": "elias-michaias",
   "license": "ISC"
 }
