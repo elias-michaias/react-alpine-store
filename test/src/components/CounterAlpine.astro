@@ -4,5 +4,6 @@ const { index } = Astro.props;
 
 <div x-data>
   <p>Count: <span x-text=`$store.${index}`>0</span></p>
-  <button @click=`$store.${index}++`>Increment</button>
+  <button @click=`$store.${index} = $store.${index} + 1`>Increment</button>
 </div>
+
